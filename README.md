@@ -1,4 +1,4 @@
-# MML React
+# MML React-Native
 
 [![NPM](https://img.shields.io/npm/v/mml-react.svg)](https://www.npmjs.com/package/mml-react)
 [![CI](https://github.com/GetStream/mml-react/workflows/CI/badge.svg)](https://github.com/GetStream/mml-react/actions)
